@@ -1,0 +1,14 @@
+213.41.84.205
+6667
+Eilema
+Shiva
+Shiva
+niouf
+Boris_Kavod
+Boris[away]
+Bastard
+EOF
+salut PRIVMSG $chan :Salut $nick !
+bisou PRIVMSG $chan : $nick fait un bisou a $0
+niouf PRIVMSG $chan : $nick > Espece de niouf niouf !
+EOF
